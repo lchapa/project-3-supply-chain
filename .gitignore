@@ -2,6 +2,10 @@
 .gitattributes
 .DS_Store
 
+.secret
+build/
+package-lock.json
+
 # Logs
 logs
 *.log
